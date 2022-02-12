@@ -1,2 +1,6 @@
 some text
+<<<<<<< HEAD
 master text
+=======
+more text
+>>>>>>> experiment
